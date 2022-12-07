@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Hind Madurai';
+    src: url(../font/HindMadurai-Regular.ttf) format(ttf);
+    src: url(../font/HindMadurai-Regular.woff) format(woff);
+    src: url(../font/HindMadurai-Regular.woff2) format(woff2);
+}
+@font-face {
+    font-family: 'Fredoka One';
+    src: url(../font/FredokaOne-Regular.ttf) format(ttf);
+    src: url(../font/FredokaOne-Regular.woff) format(woff);
+    src: url(../font/FredokaOne-Regular.woff2) format(woff2);
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url(../font/Roboto-Regular.ttf) format(ttf);
+    src: url(../font/Roboto-Regular.woff) format(woff);
+    src: url(../font/Roboto-Regular.woff2) format(woff2);
+}
